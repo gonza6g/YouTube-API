@@ -1,3 +1,4 @@
+# YouTube Playlist Creator
 The script provides the following options:
 
 1. **List all playlists**
