@@ -1,0 +1,5 @@
+{
+    "client_secrets_file": "client_secret.json",
+    "token_file": "token.pickle",
+    "scopes": ["https://www.googleapis.com/auth/youtube.force-ssl"]
+} 
